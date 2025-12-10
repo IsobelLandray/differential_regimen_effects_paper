@@ -6,7 +6,7 @@ Files contained in this repository can be used to reproduce the results of the s
 The file is **Simulation_singlestage_compareanalyses.R**. Details of its functions and their input/output are found in this README file.
 
 ## **Simulation_singlestage_compareanalyses.R**
-The file "Simulation_singlestage_compareanalyses.R" contains the simulation functions: trial1_simteststat_diffsig_fourstgs_adj and datasetcreate_diffsig.The final line of the file has an example call of the functions.
+The file "Simulation_singlestage_compareanalyses.R" contains the simulation functions: trial1_simteststat_diffsig_fourstgs_adj and datasetcreate_diffsig. Lines 361, 370, 381 of the file has an example call of the functions. The file also contains the code for Figure 5 (Operating characteristics) from the manuscript. The other figures can be created with some manipulation of the outputted data from the function calls.
 
 #### Function: trial1_simteststat_diffsig_singlestg_adj
 
